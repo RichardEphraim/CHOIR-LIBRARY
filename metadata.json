@@ -1,0 +1,6 @@
+{
+  "name": "Cantoria - Multi-Tenant Choir Library & Repertoire Platform",
+  "description": "Multi-tenant church choir song library and repertoire manager with isolated tenant directories, audio rehearsal player, scanned sheet music lightbox, and choirmaster tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
